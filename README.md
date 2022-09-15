@@ -38,9 +38,13 @@ Deploying
 ![1](https://user-images.githubusercontent.com/89390696/190322114-fa0bbbbe-a637-4879-966c-82f34cbe1650.png)
 
 
+
+
 ### PREDICTION FORM:
 
 ![Predict](https://user-images.githubusercontent.com/89390696/190322271-4fe5a0b1-f5cb-4224-9f6f-7f97f7e7dc3e.png)
+
+
 
 ### RESULT PAGE:
 
@@ -64,6 +68,10 @@ Deploying
 ## Feedback
 
 If you have any feedback, please reach out to us at vamshikollipati@gmail.com
+
+# Thanks For Visiting :) 
+
+Please do ⭐ the repository, if it helped you in anyway
 
 
 
