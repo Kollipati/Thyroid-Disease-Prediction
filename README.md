@@ -40,11 +40,11 @@ Deploying
 
 ### PREDICTION FORM:
 
-![img](https://i.imgur.com/TLFjxId.png)
+![Predict](https://user-images.githubusercontent.com/89390696/190322271-4fe5a0b1-f5cb-4224-9f6f-7f97f7e7dc3e.png)
 
 ### RESULT PAGE:
 
-![img](https://i.imgur.com/TLFjxId.png)
+![Result](https://user-images.githubusercontent.com/89390696/190322242-1801181c-31bb-4bae-a8a1-52830eaf9a53.png)
 
 ## Authors
 
@@ -64,4 +64,6 @@ Deploying
 ## Feedback
 
 If you have any feedback, please reach out to us at vamshikollipati@gmail.com
+
+
 
