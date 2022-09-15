@@ -35,7 +35,8 @@ Deploying
 
 ### HOMEPAGE:
 
-![img](https://i.imgur.com/TLFjxId.png)
+![1](https://user-images.githubusercontent.com/89390696/190322114-fa0bbbbe-a637-4879-966c-82f34cbe1650.png)
+
 
 ### PREDICTION FORM:
 
